@@ -1,0 +1,9 @@
+C:\Users\Actel\source\repos\mini project\mini project\bin\Debug\mini project.exe.config
+C:\Users\Actel\source\repos\mini project\mini project\bin\Debug\mini project.exe
+C:\Users\Actel\source\repos\mini project\mini project\bin\Debug\mini project.pdb
+C:\Users\Actel\source\repos\mini project\mini project\obj\Debug\mini project.csproj.AssemblyReference.cache
+C:\Users\Actel\source\repos\mini project\mini project\obj\Debug\mini_project.Properties.Resources.resources
+C:\Users\Actel\source\repos\mini project\mini project\obj\Debug\mini project.csproj.GenerateResource.cache
+C:\Users\Actel\source\repos\mini project\mini project\obj\Debug\mini project.csproj.CoreCompileInputs.cache
+C:\Users\Actel\source\repos\mini project\mini project\obj\Debug\mini project.exe
+C:\Users\Actel\source\repos\mini project\mini project\obj\Debug\mini project.pdb
